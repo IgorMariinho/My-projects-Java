@@ -13,4 +13,7 @@ Thanks!
 Att,
 **Igu**
 
-<img src="/Users/igormarinho/projetos-java/pchappy.png" alt="pchappy" style="zoom:50%;" />
+<p align="center">
+  <a href="https://github.com/IgorMariinho/My-projects-Java>
+    <img src="./images/pchappy.png" alt="Imagem PC Feliz" width="160" height="160">
+</p>
