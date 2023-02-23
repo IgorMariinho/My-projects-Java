@@ -1,4 +1,4 @@
-# Welcome to my Java Repository :man_technologist::package:
+# :man_technologist: Welcome to my Java Repository :package:
 
 ### **Hello Guys, I hope you're fine.** :wave:
 
